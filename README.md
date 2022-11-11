@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://as1.ftcdn.net/v2/jpg/02/42/83/38/1000_F_242833857_rsLAXVpWoSsKMOt9n5BCb4IRdNRupQ8X.jpg)](https://www.linkedin.com/in/jricardopalmeira/)
 
 <h1 align="center">Hi 👋, I'm José Ricardo</h1>
 <h3 align="center">A eternal learner and passionate for data science.</h3>
