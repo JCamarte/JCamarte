@@ -1,7 +1,7 @@
 [![MasterHead](https://as1.ftcdn.net/v2/jpg/02/42/83/38/1000_F_242833857_rsLAXVpWoSsKMOt9n5BCb4IRdNRupQ8X.jpg)](https://www.linkedin.com/in/jricardopalmeira/)
 
 <h1 align="center">Hi 👋, I'm José Ricardo</h1>
-<h3 align="center">A eternal learner and passionate for data science.</h3>
+<h3 align="center">An eternal learner and passionated for data science.</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jcamarte&label=Profile%20views&color=0e75b6&style=flat" alt="jcamarte" /> </p>
