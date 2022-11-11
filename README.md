@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jcamarte&label=Profile%20views&color=0e75b6&style=flat" alt="jcamarte" /> </p>
 
-- 🌱 I’m currently learning and improving **Python, Google Cloud Platform and**
+- 🌱 I’m currently learning and improving **Python, Google Cloud Platform and MySQL.**
 
 - 📫 How to reach me **j.camarte@gmail.com**
 
